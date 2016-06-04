@@ -1,0 +1,86 @@
+
+
+.img
+{
+	width : 100%;
+}
+h3
+{
+	text-align :center;
+	text-decoration :underline;
+	padding-top :0.5%;
+	padding-bottom :1%;
+	font-size :em;
+}
+p
+{
+	padding-left : 2%;
+	padding-bottom : 0px ;
+	padding-top : 0px;
+	padding-right : 0px;
+	font-family : Lucida Sans;
+	color :#c43235;
+	height : 100px;
+	border-bottom : 3px black;
+	
+	
+}
+.block
+{
+	padding :5px;
+	background-color : #e62739;
+	color : #dddfd4;
+	height :40px;
+	border-top: 5px grey;
+	margin-bottom :0px;
+	font-family : Book Antiqua;
+	
+}
+
+.card{
+width: 350px;
+border: 1px solid gray;
+
+border-top: 10px solid green;
+min-height: 250px;
+padding-: 10px;
+margin: 10px;
+background-color : #f2b632;
+}
+
+#movies{
+  font-family: calibri;
+  box-sizing: border-box;
+  justify-content: center;
+  display: flex;
+flex-wrap: wrap;
+}
+img{
+  
+  width: 100%;
+  padding-left :0px;
+  padding-right :0px;
+ height : 340px;
+ border-bottom-color : #334431;
+ border-bottom-width :5px;
+ 
+}
+h3{
+	height: 10px;
+	color : #252839;
+}
+body
+{
+	background-color :#252839;
+}
+h1
+{
+	text-align :center;
+	color : white;
+}
+h2
+{
+	text-align :center;
+	color :white;
+	margin-top :10px;
+}
